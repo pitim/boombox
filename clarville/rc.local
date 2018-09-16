@@ -1,0 +1,2 @@
+python3 /home/pi/rot.py &
+squeezelite-armv6hf -V PCM -a 80 -n Clareville -s 192.168.1.1 -z
